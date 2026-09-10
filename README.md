@@ -8,7 +8,7 @@ My projects use digital environments, symbolic interfaces and interactive techno
 
 [Monkadelic](https://monkadelic.me) · [Website](https://danielrezinovsky.com)
 
-![Ontik — The Cosmic Attractor](https://raw.githubusercontent.com/danrezi-gif/Ontik-vr-shader-experience/main/img/ontik-cosmic-attractor.jpg)
+![Ontik — Alpha and Omega](https://raw.githubusercontent.com/danrezi-gif/Ontik-vr-shader-experience/main/img/ontik-alpha-and-omega.jpg)
 
 ## Selected work
 
