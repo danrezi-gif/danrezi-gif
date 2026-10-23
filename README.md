@@ -38,5 +38,6 @@ A swarm artwork in which artificial agents associated with contemplative traditi
 
 - [Monkadelic](https://monkadelic.me)
 - [Daniel Rezinovsky](https://danielrezinovsky.com)
+- [Rice University profile](https://profiles.rice.edu/student/daniel-rezinovsky)
 - [Instagram — @monkadelic_](https://www.instagram.com/monkadelic_/)
 - [YouTube — Monkadelic](https://www.youtube.com/@danrezi)
